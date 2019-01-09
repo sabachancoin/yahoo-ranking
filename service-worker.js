@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/yahoo-ranking/precache-manifest.61d2e2e93e18f8d67c14c6770fa021af.js"
+  "/yahoo-ranking/precache-manifest.91f41fad49ebc4bcab80f288197c07c0.js"
 );
 
 workbox.clientsClaim();

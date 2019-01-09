@@ -1,11 +1,11 @@
 {
-  "main.js": "/yahoo-ranking/static/js/main.80bfcebb.chunk.js",
-  "main.js.map": "/yahoo-ranking/static/js/main.80bfcebb.chunk.js.map",
+  "main.js": "/yahoo-ranking/static/js/main.02bbc24c.chunk.js",
+  "main.js.map": "/yahoo-ranking/static/js/main.02bbc24c.chunk.js.map",
   "static/js/1.4e1161b6.chunk.js": "/yahoo-ranking/static/js/1.4e1161b6.chunk.js",
   "static/js/1.4e1161b6.chunk.js.map": "/yahoo-ranking/static/js/1.4e1161b6.chunk.js.map",
   "runtime~main.js": "/yahoo-ranking/static/js/runtime~main.2d1f246b.js",
   "runtime~main.js.map": "/yahoo-ranking/static/js/runtime~main.2d1f246b.js.map",
   "index.html": "/yahoo-ranking/index.html",
-  "precache-manifest.61d2e2e93e18f8d67c14c6770fa021af.js": "/yahoo-ranking/precache-manifest.61d2e2e93e18f8d67c14c6770fa021af.js",
+  "precache-manifest.91f41fad49ebc4bcab80f288197c07c0.js": "/yahoo-ranking/precache-manifest.91f41fad49ebc4bcab80f288197c07c0.js",
   "service-worker.js": "/yahoo-ranking/service-worker.js"
 }
